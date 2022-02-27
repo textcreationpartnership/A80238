@@ -1,0 +1,168 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A commission for the due and effectual assessing and leavying of the fourth part of the yearly value of lands, &amp; of the yearly increase or profit of stocks, and other personal estate in the prespective precincts in Ireland; for, and towards the pay of the armie.</title>
+            <author>Ireland. Commissioners of the Common-wealth of England for the Affairs of Ireland.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80238</idno>
+            <idno type="STC">Wing C5551B</idno>
+            <idno type="STC">ESTC R174183</idno>
+            <idno type="EEBO-CITATION">47682872</idno>
+            <idno type="OCLC">ocm 47682872</idno>
+            <idno type="VID">172827</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80238)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172827)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2651:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A commission for the due and effectual assessing and leavying of the fourth part of the yearly value of lands, &amp; of the yearly increase or profit of stocks, and other personal estate in the prespective precincts in Ireland; for, and towards the pay of the armie.</title>
+                  <author>Ireland. Commissioners of the Common-wealth of England for the Affairs of Ireland.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by William Bladen,</publisher>
+                  <pubPlace>Dublin, :</pubPlace>
+                  <date>Anno Dom. 1654.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  Finance.</term>
+               <term>Act for the speedy and effectual satisfaction of the adventurers for lands in Ireland, &amp;c.</term>
+               <term>Property tax --  Ireland --  Early works to 1800.</term>
+               <term>Ireland --  History --  1649-1660.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:172827:1" rendition="simple:additions"/>
+            <head>A COMMISSION FOR The due and effectual Aſſeſſing and Leavying of the fourth part of the yearly value of Lands, &amp; of the yearly increaſe or profit of Stocks, and other Perſonal Eſtate in the Reſpe<g ref="char:EOLhyphen"/>ctive Precincts in IRELAND; for, and towards the Pay of the ARMIE.</head>
+            <head>IRELAND.</head>
+            <byline>
+               <hi>By the Commiſsioners of the Common-wealth of</hi> England <hi>for the Affairs of</hi> Ireland.</byline>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas, In and by one Act of Parliament, (Intituled <hi>An Act for the ſpeedy and effectual Satisfaction of the Adventurers for Lands in Ireland,</hi> &amp;c.) It is (amongſt other things) enacted, That all Inhabitants, Own<g ref="char:EOLhyphen"/>ers, Occupiers and Tenants of Lands in <hi>Ireland,</hi> ſhall from and after the 24. of <hi>Iune</hi> next 1654. be charged to pay for the ſaid Lands and Stock thereon, towards any publick charge, no more than one fourth part (both for the Land-Lord &amp; Tenant) of the true &amp; full yearly value &amp; profit of their reſpe<g ref="char:EOLhyphen"/>ctive Lands and Stock thereon; as by the ſaid Act more at large appeareth. To the end therefore that the ſaid Branch of the ſaid Act may be duly put in execution, the Commiſſioners of the Re<g ref="char:EOLhyphen"/>venue
+<pb n="2" facs="tcp:172827:2"/>
+in every reſpective <hi>Precinct</hi> in <hi>Ireland,</hi> or any three or more of them within every Precinct reſpectively, are hereby authori<g ref="char:EOLhyphen"/>zed and required, to Tax, Aſſeſs and Levie upon all &amp; every the Inhabitants, Owners, Occupiers &amp; Tenants of Houſes, Lands, Tenements, Tithes, Fiſhings, and other Heredi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aments; and upon all and every Fraternity, Guild, Corporation, Bodies-Po<g ref="char:EOLhyphen"/>litick or Corporate, having or holding any Houſes, Lands, Tiths, VVeares, Fiſhings, or other Hereditaments; or any Rents, Annuities, or profits out of Lands, Tiths, VVeares, Fiſh<g ref="char:EOLhyphen"/>ings, or other Hereditaments within their reſpective Precincts, the full fourth part of the true and yearely value of all and ſingu<g ref="char:EOLhyphen"/>lar the ſaid Houſes, Lands, Tenements, Tythes, Fiſhings and other Hereditaments within the ſaid Precincts reſpectively, ac<g ref="char:EOLhyphen"/>cording to the beſt improved Rate the ſame now is or may be let by the Land-lord at the Rack without Stock thereupon. And likewiſe, the full fourth part of the yearly increaſe or profit of the Cattle, Seed-corn, and other Stock, and perſonall Eſtate belong<g ref="char:EOLhyphen"/>ing to or imployed by all and every the Inhabitants, Owners, Occupiers and Tennants of Lands, within the ſaid Precincts re<g ref="char:EOLhyphen"/>ſpectively, as Stock upon the ſaid Lands; And alſo the full fourth part of the yearely increaſe or profit of all Stocks of money and goods imployed by all and every perſon and perſons within the ſaid Precincts reſpectively in the way of Merchandize or trade; or in any other way whereby increaſe or profit doth accrue to the Owner: The ſaid increaſe or profit of Stock and perſonall Eſtate to be computed according to the Rate of eight pounds for every hundred pounds, that the ſame ſhall be valued to be worth according to the beſt and moſt improved Rates; the fourth part whereof (That is to ſay, Forty ſhillings for every Hundred pounds in Stock) is to be aſſeſsed and levied as aforeſaid, and ſo rateably for greater and leſſer Stocks.</p>
+            <p>And for the more due and effectuall aſſeſsing and levying of the ſaid fourth part, according to the Tenor of the ſaid recited Act, The ſaid Commiſsioners of Revenue in every reſpective Precinct, are hereby authorized and required to iſſue out their warrants, to any two or more of the moſt able and faithfull men in every Barony, Diviſion or Allotment within each Pre<g ref="char:EOLhyphen"/>cinct,
+<pb n="3" facs="tcp:172827:2"/>
+thereby requiring them, forthwith to value all and every the Houſes, Lands, Tenements, tythes, Fiſhings, and other He<g ref="char:EOLhyphen"/>reditaments within their reſpective Baronies, Diviſions or A<g ref="char:EOLhyphen"/>lotments, according to the beſt improved yearely value the ſame now is or may be let by the Land-lord, at the Rack without Stock thereupon: And likewiſe to value all Cattle, Seed-corn, and other Stock and perſonall Eſtate, yeelding increaſe or pro<g ref="char:EOLhyphen"/>fit, belonging to or imployed by all and every the ſaid Owners, Occupiers and Tennants of Lands, and other Inhabitants with<g ref="char:EOLhyphen"/>in their reſpective Baronies, Diviſions or Allotments. And to cauſe the ſaid yearely Value of the reſpective Lands, Tenements, Tythes, Fiſhings, and other Hereditaments in every reſpective perſons holding, poſſeſsion or occupation within their reſpe<g ref="char:EOLhyphen"/>ctive Baronies, Diviſions or Allotments; together with the true value of the Cattle, Seed-corn, money, goods, and other Stock, and perſonall Eſtate yeelding increaſe or profit, belonging to or imployed by the ſaid perſons reſpectively; to be fairely written in a Parchment Roll or Book; Setting downe at every mans name, the name and quantity of the Lands, Tenements, tythes, Fiſhings, and other Hereditaments he holdeth or occupieth; to<g ref="char:EOLhyphen"/>gether with the name of the Owner or Proprietor thereof; and the true yearely Value of the ſame, according to the ſaid beſt im<g ref="char:EOLhyphen"/>proved Rates: &amp; in another diſtinct Column, the true yearly va<g ref="char:EOLhyphen"/>lue of every perticular perſons Stock according to the ſaid beſt improved Rates. And the ſaid Rolls or Books being prepared as aforeſaid, to returne the ſame atteſted under their Hands unto the ſaid Commiſsioners of Revenue reſpectively, before the ſix and twenty day of Iune next enſuing. And the ſaid Com<g ref="char:EOLhyphen"/>miſsioners of Revenue in every reſpective Precinct are required to returne unto the Commiſsioners of the <hi>Common-wealth,</hi> before the tenth day of <hi>Iuly</hi> next, Duplicates of the Rolls or Books (here<g ref="char:EOLhyphen"/>by appointed to be returned unto them, and to be perfected by them as aforeſaid) of the true yearly Value of the Lands, Stock, and other perſonall Eſtate of every perſon within their reſpe<g ref="char:EOLhyphen"/>ctive Precinct.</p>
+            <p>And for the better diſcovery of the true value of the ſaid Lands and Stock as aboveſaid, the ſaid Commiſsioners of Revenue
+<pb n="4" facs="tcp:172827:3"/>
+are by their ſaid Warrants to authorize the ſaid perſons (whom, they ſhall appoint to value the ſame as aforeſaid) to ſend for ſuch perſons as they ſhall think fit within their reſpective Baronies Diviſions or Allotments; and to examine them touching the premiſſes; and to uſe all other good waies and meanes for the diſcovery of the ſame; letting all perſons concerned within their reſpective Baronies, Diviſions or Allotments know, That if any perſon ſhall conceale the Number, quantity or kind of any part of his Eſtate, to the end the ſame may be freed or exempted from the Aſſeſsment or Duty aforeſaid, The ſaid Eſtate ſo con<g ref="char:EOLhyphen"/>cealed ſhall be ſeized to the uſe of the Common-wealth; which the Commiſsioners of Revenue in their reſpective Precincts, are hereby authorized to do; and to cauſe the ſame to be appraiſed, and ſold in open Market, to ſuch perſon or perſons as ſhall give moſt for the ſame; and to cauſe the money for which the ſame ſhall be ſold as aforeſaid, to be paid in to the publick Treaſury of the Precinct, wherein the ſaid Eſtate ſhall be ſo ſeized. And in all caſes where the Commiſsioners of Revenue, or any of them, ſhall ſuſpect that the Lands, Tenements, Tythes, Goods or Stock (ſo returned unto them as aforeſaid) are by the ſaid Re<g ref="char:EOLhyphen"/>turnes undervalued; they or any three, or more of them, are hereby authorized and required, to make further inquirie of the true improved Value of ſuch Lands, Tenements, Tythes, goods &amp; Stock, ſo undervalued; and by all good wayes and meanes to informe themſelves of the true value of the ſame: And to that end, to ſend for perſons, and (if they ſee cauſe) to examine them upon Oath, in all matters wherein ſuch perſons are not concerned, for the better diſcovery of the Truth of the premi<g ref="char:EOLhyphen"/>ſes; and thereupon to inlarge and increaſe the ſaid Value to ſo much as they ſhall (by view, Enquiry or Examination, as afore<g ref="char:EOLhyphen"/>ſaid) find the ſame to be worth, more then what they were preſented at by the ſaid Returnes; And to cauſe the ſaid Re<g ref="char:EOLhyphen"/>turnes to be altered in thoſe perticulars, and made agreeable to the ſaid increaſed Value. And the ſaid Returnes being made and perfected as aforeſaid, The ſaid Commiſsioners of Reve<g ref="char:EOLhyphen"/>nue reſpectively, or any three or more of them, are hereby au<g ref="char:EOLhyphen"/>thorized &amp; required to Tax &amp; aſſeſs the fourth part of the true
+<pb n="5" facs="tcp:172827:3"/>
+yearly value of all Lands, Tenements, Tythes, Fiſhings, and o<g ref="char:EOLhyphen"/>ther Hereditaments without Stock therupon; and of all Cattle, Seed-corne, money, goods and other Stock and perſonall E<g ref="char:EOLhyphen"/>ſtate yeelding increaſe or profit within their reſpective Pre<g ref="char:EOLhyphen"/>cincts, according to the Values ſet downe in the ſaid Returnes, and according to the Rates above ſpecified: That is to ſay, for every hundred pounds by the year in Lands, Tenements, tythes, Fiſhings, &amp; other Hereditaments five and twenty pounds; and for every hundred pounds in Stock, money, or other perſonall Eſtate yeelding profit or increaſe, forty ſhillings And ſo rate<g ref="char:EOLhyphen"/>ably for greater &amp; leſſer proportions of Land and Stock, which Tax and Aſſeſſe of the fourth part of the value of Lands, and of the fourth part of the increaſe or profit of Stock, and other perſonall Eſtate, is to be in liew of all other Aſſeſsments, Con<g ref="char:EOLhyphen"/>tributions, and other publique charge of that nature, for and in conſideration of the ſaid Lands and Stock, for one whole yeare commencing the ſix and twentieth day of Iune next enſuing, (At which time the preſent Aſſeſsments determine) and ending the ſix and twentieth day of Iune, which ſhall be in the year of our Lord 1655. And the ſaid fourth part of the value of Land and increaſe of Stock, being taxed and aſſeſsed by the reſpective Commiſsioners of Revenue as aforeſaid, they, or any three or more of them, are hereby required to cauſe the ſame to be E<g ref="char:EOLhyphen"/>ſtreated, or fairely writ in a Parchment Roll, or paper Book, in ſeverall Eſtreates, Rolls or Bookes; That is to ſay, one Eſtreat for each Barony, Diviſion or Allotment, wherein is to be com<g ref="char:EOLhyphen"/>prized the Names, and Sirnames of every perſon who is charg<g ref="char:EOLhyphen"/>able to pay the ſaid Tax or Aſſeſs, within ſuch Barony, Limit, or Diviſion: and the Sum thar every ſuch perſon is to pay for the whole year, and how much thereof for Lands, and how much for Stock; and what every ſuch perſon is to pay thereof quarter<g ref="char:EOLhyphen"/>ly. And the ſaid Eſtreates, Rolls or Books, being prepared as aforeſaid, and ſigned by the ſaid Commiſsioners of the Reve<g ref="char:EOLhyphen"/>nue, and likewiſe entred in a Book, to remain with them as a Record; They, the ſaid Commiſsioners of the Revenue, or any three or more of them, are hereby authorized and required,
+<pb n="6" facs="tcp:172827:4"/>
+forthwith to nominate, appoint &amp; authorize (by warrants under their Hands &amp; Seals; and written at the end of every ſuch Eſtre<g ref="char:EOLhyphen"/>ate, Roll or Book) two or more able &amp; fit perſons within every Barony, Limit or Diviſion, to Collect and Leavy the ſaid Tax and Aſſeſs for the ſaid year, ending the ſix and twentieth of Iune 1655. and to pay in the ſame to the Treaſurer of the publick Revenue within every reſpective Precinct. And upon neglect or refuſal of payment of the ſaid Tax or Aſſeſs, (after demand thereof made) to diſtrain for the ſame; And the diſtreſs ſo ta<g ref="char:EOLhyphen"/>ken to drive, lead and carry away; and the ſame to detain and keep for the ſpace of ſix daies; and in caſe with in that time the Tax be not paid, Then the ſaid Collectors are to be impowred by ſpecial Order in writing from the ſaid Commiſ<g ref="char:EOLhyphen"/>ſioners of Revenue, or any two or more of them, to make Sale of the ſaid diſtreſs in open Market, to ſuch perſon or perſons as will give moſt for the ſame; and out of the proceed thereof, to pay and diſcharge the ſaid Tax or Aſſeſs, due upon ſuch perſon ſo diſtrained upon; together with ſuch reaſonable compenſati<g ref="char:EOLhyphen"/>on for the taking and keeping of the ſaid diſtreſs, as the Com<g ref="char:EOLhyphen"/>miſſioners of the Revenue, or any two or more of them ſhall (by writing under their hands) award; rendering the over-plus (if any be) to the Owner.</p>
+            <p>And whereas the Monethly Aſſeſſments, are from and after the ſix and twentieth day of Iune next, to determine, whereby the Monethly pay of the Forces of the Army will be retarded, and thereby the ſaid Forces will be neceſsitated to take free-quarters upon the Countrey (if ſome timely courſe be not taken to prevent the ſame) It is therefore hereby Ordered, That the ſaid Commiſſioners of Revenue, or any three or more of them in their reſpective Precincts, do (in and by their ſaid VVarrants, to be iſſued as aforeſaid for the Collecting of the ſaid Tax) require the ſpeedy Leavying and Collecting of one Quarter part of the ſaid Tax or Aſſeſs; and to cauſe the ſame to be paid to the Treaſurer of the Publick Revenue within every Reſpe<g ref="char:EOLhyphen"/>ctive Precinct, before the firſt day of <hi>Auguſt</hi> next enſue<g ref="char:EOLhyphen"/>ing, towards the pay and maintenance of the ſaid Forces.</p>
+            <p>
+               <pb n="7" facs="tcp:172827:4"/>And in caſe any perſon or perſons ſhall refuſe to execute ſuch War<g ref="char:EOLhyphen"/>rants, Commiſſions or orders, as ſhall be directed unto him or them, for the ends and purpoſes aforeſaid; or ſhall be found unfaithful or negligent in the performance of his or their duty in the premiſes: The ſaid Com<g ref="char:EOLhyphen"/>miſſioners of Revenue, or any three or more of them, are hereby impow<g ref="char:EOLhyphen"/>ered and authorized (upon certain knowledge of ſuch refuſal, neglect or miſdemeanor, by examination of perſons or otherwiſe) to ſet upon every ſuch offendor, for every time they ſhall ſo offend, ſuch fine and fines as they ſhall think fit and proportionable to the offence, not exceeding the ſum of Five pounds for any one offence; and to cauſe the ſaid fines to be leavyed upon the goods and other eſtate of ſuch offendors reſpe<g ref="char:EOLhyphen"/>ctively, and to be payd to the Treaſurer of the Publick Revenue of the Precinct where the offence is co<g ref="char:cmbAbbrStroke">̄</g>mitted, for the uſe of the <hi>Common-wealth;</hi> And likewiſe to puniſh ſuch offendors by impriſonment of their perſons, there to remain for ſuch time as they ſhall judge convenient without Bail: Provided, the time of their impriſonment for any one offence exceed not eight and twentie days. And the ſaid Commiſſioners of Revenue or any three or more of them within their Precincts, are hereby further au<g ref="char:EOLhyphen"/>thorized to examine, hear and determine all differences and complaints, which ſhall happen between Land Lord and Tenant, or between any o<g ref="char:EOLhyphen"/>ther perſons, touching the proportioning the ſaid Tax or Aſſeſs, in ſuch way as ſhall be moſt agreeable to Iuſtice. For which end they are to take notice, that the Land-Lord is to pay the full fourth part of the whole Rent, Annuity, or other Provenue reſerved upon or out of any Lands, Tyths, or other Hereditaments: and where Lands are of more value than the Rent, Annuitie, or Provenue reſerved for or out of the ſame, the Land-Lord is to allow to the Tenant out of the ſaid Rent, Annuity, or other Provenue, one fourth part thereof towards the ſaid Tax, and no more: And the Tenant is to pay for the ſaid yearly value of the Land above the Rent, Annuity, or other Provenue reſerved as aforeſaid; except in caſe where the Tenant hath taken any Lands ſince the beginning of the late Rebellion, at a certain Rent to be payd his Land-Lord, over and a<g ref="char:EOLhyphen"/>bove all Aſſeſſments and other publick Charges payable out of the ſaid Lands, whereby the Tenant, by covenant or promiſe is engaged to pay all Taxes and other publick charge for or in reſpect of the ſaid Lands; in which caſe the Land-Lord is to have the benefit of his bargain, and to receive his Rent intirely; and the Tenant is to pay the ſaid whole Tax, according to his Agreement.</p>
+            <p>And whereas it hath been the practice of many of the <hi>Iriſh</hi> Inhabitants to remove themſelves, their Families and Stocks out of one Precinct in to another to avoid the payment of ſuch publick charge, as of right they ought to pay, and thereby the publick Revenue hath been much dimini<g ref="char:EOLhyphen"/>ſhed: It is hereby further Ordered and Declared, That where any In<g ref="char:EOLhyphen"/>habitant ſhall (after that his Stock is valued as aforeſaid) remove his ſaid Stock out of the Precinct where the ſame ſhall be ſo valued and return<g ref="char:EOLhyphen"/>ed, as is herein before directed; ſuch perſon and perſons ſo removing his
+<pb n="8" facs="tcp:172827:5"/>
+and their Stocks out of the Precinct where the ſame ſhall be firſt valued as aforeſaid, without ſpecial licence in writing firſt had and obtained from the Commiſſioners of Revenue of the Precinct (out of which ſuch perſon is to remove) or any three or more of them, ſhall nevertheleſs pay for his ſaid Stock in the Precinct wherein the ſame was valued as afore<g ref="char:EOLhyphen"/>ſaid: And ſhall alſo be ſubject and lyable to pay the full proportion for his ſaid Stock in the Precinct into which ſuch perſon ſhall remove. And the Commiſſioners of Revenue in every reſpective Precinct, are to cauſe the ſame to be leavyed accordingly: And the Inhabitants of every reſpe<g ref="char:EOLhyphen"/>ctive Town, Vill, or Pariſh where ſuch perſon reſides are to give timely notice to the Commiſſioners of Revenue of the Precinct, of ſuch removal of Stocks our of the Town, Vill, or Pariſh, wherein the perſons ſo remo<g ref="char:EOLhyphen"/>ving do reſide, upon pain of being lyable to pay ſuch proportion of Aſ<g ref="char:EOLhyphen"/>ſeſſments as ſhall fall upon ſuch Stocks as ſhall be ſo removed without li<g ref="char:EOLhyphen"/>cence, and thereby the publick Revenue of the Precinct diminiſhed. And all Officers of the Army, and all other Officers and Miniſters of Iuſtice, and all other perſons whatſoever, are to be ayding and aſſiſting unto the ſaid Commiſſioners of Revenue within their reſpective Precincts, and their ſubordinate Miniſters, in the due execution of the power and truſt hereby committed unto them, as often as they ſhall receive Warrants from the ſaid Commiſſioners of Revenue in that behalf.</p>
+            <closer>
+               <dateline>DUBLIN,
+<date>
+                     <hi>the</hi> 15. <hi>day of May</hi> 1654.</date>
+               </dateline>
+               <signed>Charles Fleetwood. Miles Corbet. Jo: Jones.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="imprimatur">
+            <p>ORdered by the ſaid Commiſſioners, That this Commiſſion be forthwith Printed and Publiſhed.</p>
+            <closer>
+               <signed>
+                  <hi>Signed by order,</hi> &amp;c. <hi>THO: HERBERT.</hi> Secr.</signed>
+            </closer>
+         </div>
+         <div type="colophon">
+            <p>
+               <hi>D<g ref="char:V">Ʋ</g>BLIN,</hi> ¶ Printed by WILLIAM BLADEN, <hi>Anno Dom.</hi> 1654.</p>
+            <pb facs="tcp:172827:5"/>
+         </div>
+      </back>
+   </text>
+</TEI>
